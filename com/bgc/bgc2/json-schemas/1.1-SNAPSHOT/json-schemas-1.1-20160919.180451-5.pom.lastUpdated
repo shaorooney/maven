@@ -1,0 +1,13 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue Sep 20 09:02:22 EDT 2016
+http\://repo.gfinet.com\:8081/artifactory/libs-releases-local/.error=Could not transfer artifact com.bgc.bgc2\:json-schemas\:pom\:1.1-20160919.180451-5 from/to releases-local (http\://repo.gfinet.com\:8081/artifactory/libs-releases-local)\: Failed to transfer file\: http\://repo.gfinet.com\:8081/artifactory/libs-releases-local/com/bgc/bgc2/json-schemas/1.1-SNAPSHOT/json-schemas-1.1-20160919.180451-5.pom. Return code is\: 409 , ReasonPhrase\:Conflict.
+http\://download.java.net/maven/2/.lastUpdated=1474376542135
+http\://maven.springframework.org/release/.error=
+http\://longmoart\:8081/artifactory/libs-snapshot/.lastUpdated=1474376542326
+http\://download.java.net/maven/2/.error=
+http\://maven.springframework.org/release/.lastUpdated=1474376540226
+http\://maven.springframework.org/milestone/.lastUpdated=1474376540144
+http\://longmoart\:8081/artifactory/libs-snapshot/.error=
+http\://repo.gfinet.com\:8081/artifactory/libs-snapshots-local/.lastUpdated=1474376542426
+default-http\://repo.gfinet.com\:8081/artifactory/libs-releases-local/.lastUpdated=1474376542373
+http\://maven.springframework.org/milestone/.error=

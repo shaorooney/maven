@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>com.bgc.bgc2</groupId>
+  <artifactId>json-schemas</artifactId>
+  <version>1.1-SNAPSHOT</version>
+  <name>JSON Schemas</name>
+
+  <organization>
+    <name>BGC Partners Inc</name>
+  </organization>
+
+  <packaging>jar</packaging>
+
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+  </properties>
+
+  <profiles>
+    <profile>
+      <id>gfinet</id>
+      <distributionManagement>
+        <repository>
+          <id>releases</id>
+          <url>http://repo:8081/artifactory/libs-releases-local</url>
+        </repository>
+        <snapshotRepository>
+          <id>snapshots</id>
+          <url>http://repo:8081/artifactory/libs-snapshots-local</url>
+        </snapshotRepository>
+      </distributionManagement>
+    </profile>
+    <profile>
+      <id>longmoart</id>
+      <distributionManagement>
+        <repository>
+          <id>releases-london</id>
+          <url>http://longmoart:8081/artifactory/bgc2-release-local</url>
+        </repository>
+        <snapshotRepository>
+          <id>snapshots-london</id>
+          <url>http://longmoart:8081/artifactory/bgc2-snapshot-local</url>
+        </snapshotRepository>
+      </distributionManagement>
+    </profile>
+  </profiles>
+
+
+</project>

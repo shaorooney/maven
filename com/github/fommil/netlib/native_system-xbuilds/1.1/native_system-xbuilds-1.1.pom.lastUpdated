@@ -1,0 +1,17 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Dec 14 08:49:05 EST 2017
+https\://nexus.bedatadriven.com/content/groups/public/.lastUpdated=1513259345493
+http\://www.mvnsearch.org/maven2/.error=
+http\://download.java.net/maven/2/.lastUpdated=1513259343995
+http\://www.mvnsearch.org/maven2/.lastUpdated=1513259344728
+http\://maven.springframework.org/release/.error=
+http\://download.java.net/maven/2/.error=
+http\://maven.springframework.org/release/.lastUpdated=1513259343299
+http\://nexus.bedatadriven.com/content/repositories/renjin-release/.lastUpdated=1513259345006
+http\://maven.springframework.org/milestone/.lastUpdated=1513259343221
+http\://jaspersoft.artifactoryonline.com/jaspersoft/jr-ce-releases/.lastUpdated=1513259344799
+http\://jaspersoft.artifactoryonline.com/jaspersoft/jr-ce-releases/.error=
+default-http\://repository.pentaho.org/artifactory/repo/.lastUpdated=1513259344202
+http\://maven.springframework.org/milestone/.error=
+http\://repository.pentaho.org/artifactory/repo/.error=Could not transfer artifact com.github.fommil.netlib\:native_system-xbuilds\:pom\:1.1 from/to pentaho-releases (http\://repository.pentaho.org/artifactory/repo/)\: sun.security.validator.ValidatorException\: PKIX path building failed\: sun.security.provider.certpath.SunCertPathBuilderException\: unable to find valid certification path to requested target
+http\://nexus.bedatadriven.com/content/repositories/renjin-release/.error=

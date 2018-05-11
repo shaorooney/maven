@@ -1,0 +1,10 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon Oct 10 11:47:28 EDT 2016
+http\://download.java.net/maven/2/.lastUpdated=1476114368010
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1476114448537
+http\://maven.springframework.org/release/.lastUpdated=1476114365620
+http\://maven.springframework.org/release/.error=
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.bloomberglp.\:jconnect60\:pom\:6.0 from/to central (http\://repo.maven.apache.org/maven2)\: Connection reset
+http\://maven.springframework.org/milestone/.lastUpdated=1476114365537
+http\://maven.springframework.org/milestone/.error=
+http\://download.java.net/maven/2/.error=

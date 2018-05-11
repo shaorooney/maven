@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.cf.risk.credithub</groupId>
+  <artifactId>creditHubUI</artifactId>
+  <versioning>
+    <release>${app.version}.${app.build}</release>
+    <versions>
+      <version>${app.version}.${app.build}</version>
+    </versions>
+    <lastUpdated>20160920215700</lastUpdated>
+  </versioning>
+</metadata>

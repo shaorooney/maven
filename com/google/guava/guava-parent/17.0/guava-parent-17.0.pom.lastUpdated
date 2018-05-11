@@ -1,0 +1,17 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon Dec 18 14:39:59 EST 2017
+https\://nexus.bedatadriven.com/content/groups/public/.lastUpdated=1513625999863
+http\://www.mvnsearch.org/maven2/.error=
+http\://download.java.net/maven/2/.lastUpdated=1513625998352
+http\://www.mvnsearch.org/maven2/.lastUpdated=1513625999120
+http\://maven.springframework.org/release/.error=
+http\://download.java.net/maven/2/.error=
+http\://maven.springframework.org/release/.lastUpdated=1513625997347
+http\://nexus.bedatadriven.com/content/repositories/renjin-release/.lastUpdated=1513625999420
+http\://maven.springframework.org/milestone/.lastUpdated=1513625997266
+http\://jaspersoft.artifactoryonline.com/jaspersoft/jr-ce-releases/.lastUpdated=1513625999205
+http\://jaspersoft.artifactoryonline.com/jaspersoft/jr-ce-releases/.error=
+default-http\://repository.pentaho.org/artifactory/repo/.lastUpdated=1513625998550
+http\://maven.springframework.org/milestone/.error=
+http\://repository.pentaho.org/artifactory/repo/.error=Could not transfer artifact com.google.guava\:guava-parent\:pom\:17.0 from/to pentaho-releases (http\://repository.pentaho.org/artifactory/repo/)\: sun.security.validator.ValidatorException\: PKIX path building failed\: sun.security.provider.certpath.SunCertPathBuilderException\: unable to find valid certification path to requested target
+http\://nexus.bedatadriven.com/content/repositories/renjin-release/.error=

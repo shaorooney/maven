@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.ag.web</groupId>
+  <artifactId>myFirstWebApplication</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20160919211252</lastUpdated>
+  </versioning>
+</metadata>

@@ -1,0 +1,12 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri May 05 13:47:12 EDT 2017
+default-http\://usitdweb-vd1.ny.cantor.com\:8080/archiva/repository/all/.lastUpdated=1491406214356
+default-http\://maven.springframework.org/release/.lastUpdated=1494006432577
+http\://maven.springframework.org/release/.error=Could not transfer artifact com.cantor.itd.SecMaster\:services\:pom\:${version.secMaster} from/to spring-release (http\://maven.springframework.org/release)\: Illegal character in path at index 76\: http\://maven.springframework.org/release/com/cantor/itd/SecMaster/services/${version.secMaster}/services-${version.secMaster}.pom
+default-http\://download.java.net/maven/2/.lastUpdated=1494006432584
+http\://download.java.net/maven/2/.error=Could not transfer artifact com.cantor.itd.SecMaster\:services\:pom\:${version.secMaster} from/to java.net (http\://download.java.net/maven/2)\: Illegal character in path at index 68\: http\://download.java.net/maven/2/com/cantor/itd/SecMaster/services/${version.secMaster}/services-${version.secMaster}.pom
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1494006432591
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.cantor.itd.SecMaster\:services\:pom\:${version.secMaster} from/to central (http\://repo.maven.apache.org/maven2)\: Illegal character in path at index 71\: http\://repo.maven.apache.org/maven2/com/cantor/itd/SecMaster/services/${version.secMaster}/services-${version.secMaster}.pom
+http\://maven.springframework.org/milestone/.error=Could not transfer artifact com.cantor.itd.SecMaster\:services\:pom\:${version.secMaster} from/to spring-milestone (http\://maven.springframework.org/milestone)\: Illegal character in path at index 78\: http\://maven.springframework.org/milestone/com/cantor/itd/SecMaster/services/${version.secMaster}/services-${version.secMaster}.pom
+http\://usitdweb-vd1.ny.cantor.com\:8080/archiva/repository/all/.error=Could not transfer artifact com.cantor.itd.SecMaster\:services\:pom\:${version.secMaster} from/to Itd Main (http\://usitdweb-vd1.ny.cantor.com\:8080/archiva/repository/all)\: Illegal character in path at index 97\: http\://usitdweb-vd1.ny.cantor.com\:8080/archiva/repository/all/com/cantor/itd/SecMaster/services/${version.secMaster}/services-${version.secMaster}.pom
+default-http\://maven.springframework.org/milestone/.lastUpdated=1494006432569

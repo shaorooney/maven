@@ -1,0 +1,21 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon Dec 18 14:53:14 EST 2017
+default-https\://oss.sonatype.org/content/repositories/releases/.lastUpdated=1513625789662
+http\://www.mvnsearch.org/maven2/.lastUpdated=1513626794076
+http\://jaspersoft.artifactoryonline.com/jaspersoft/jr-ce-releases/.error=
+http\://www.mvnsearch.org/maven2/.error=
+https\://oss.sonatype.org/content/repositories/releases/.error=Could not transfer artifact com.github.fommil.netlib\:netlib-native_system-win-i686\:pom\:1.1 from/to sonatype-releases (https\://oss.sonatype.org/content/repositories/releases/)\: ProcessCanceledException
+http\://maven.springframework.org/milestone/.lastUpdated=1513626791320
+http\://maven.springframework.org/milestone/.error=
+http\://repository.pentaho.org/artifactory/repo/.lastUpdated=1513626793539
+http\://download.java.net/maven/2/.lastUpdated=1513626793160
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.github.fommil.netlib\:netlib-native_system-win-i686\:pom\:1.1 from/to central (http\://repo.maven.apache.org/maven2)\: ProcessCanceledException
+http\://download.java.net/maven/2/.error=
+http\://nexus.bedatadriven.com/content/repositories/renjin-release/.lastUpdated=1513626794351
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1513625789657
+https\://nexus.bedatadriven.com/content/groups/public/.lastUpdated=1513626794831
+http\://repository.pentaho.org/artifactory/repo/.error=
+http\://maven.springframework.org/release/.lastUpdated=1513626791403
+http\://jaspersoft.artifactoryonline.com/jaspersoft/jr-ce-releases/.lastUpdated=1513626794144
+http\://nexus.bedatadriven.com/content/repositories/renjin-release/.error=
+http\://maven.springframework.org/release/.error=
