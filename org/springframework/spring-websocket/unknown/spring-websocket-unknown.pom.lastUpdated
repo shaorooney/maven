@@ -1,0 +1,16 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Dec 07 12:37:00 EST 2017
+http\://repo.gfinet.com\:8081/artifactory/libs-snapshots-local/.error=Could not transfer artifact org.springframework\:spring-websocket\:pom\:unknown from/to snapshots-local (http\://repo.gfinet.com\:8081/artifactory/libs-snapshots-local)\: Failed to transfer file\: http\://repo.gfinet.com\:8081/artifactory/libs-snapshots-local/org/springframework/spring-websocket/unknown/spring-websocket-unknown.pom. Return code is\: 409 , ReasonPhrase\:Conflict.
+http\://repo.gfinet.com\:8081/artifactory/libs-releases-local/.error=
+http\://download.java.net/maven/2/.lastUpdated=1512668215776
+http\://maven.springframework.org/release/.error=
+http\://longmoart\:8081/artifactory/libs-snapshot/.lastUpdated=1512668220505
+http\://longmoart\:8081/artifactory/libs-release/.error=
+http\://longmoart\:8081/artifactory/libs-release/.lastUpdated=1512668220319
+default-http\://repo.gfinet.com\:8081/artifactory/libs-snapshots-local/.lastUpdated=1512668220572
+http\://download.java.net/maven/2/.error=
+http\://maven.springframework.org/release/.lastUpdated=1512668214800
+http\://maven.springframework.org/milestone/.lastUpdated=1512668214658
+http\://repo.gfinet.com\:8081/artifactory/libs-releases-local/.lastUpdated=1512668220546
+http\://longmoart\:8081/artifactory/libs-snapshot/.error=
+http\://maven.springframework.org/milestone/.error=

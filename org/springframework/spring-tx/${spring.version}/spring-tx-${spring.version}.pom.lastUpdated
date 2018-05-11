@@ -1,0 +1,10 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon Feb 13 08:58:05 EST 2017
+default-http\://maven.springframework.org/release/.lastUpdated=1486994285244
+default-http\://maven.springframework.org/milestone/.lastUpdated=1486994285239
+default-http\://download.java.net/maven/2/.lastUpdated=1486994285250
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1486994285256
+http\://maven.springframework.org/release/.error=Could not transfer artifact org.springframework\:spring-tx\:pom\:${spring.version} from/to spring-release (http\://maven.springframework.org/release)\: Illegal character in path at index 72\: http\://maven.springframework.org/release/org/springframework/spring-tx/${spring.version}/spring-tx-${spring.version}.pom
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework\:spring-tx\:pom\:${spring.version} from/to central (http\://repo.maven.apache.org/maven2)\: Illegal character in path at index 67\: http\://repo.maven.apache.org/maven2/org/springframework/spring-tx/${spring.version}/spring-tx-${spring.version}.pom
+http\://maven.springframework.org/milestone/.error=Could not transfer artifact org.springframework\:spring-tx\:pom\:${spring.version} from/to spring-milestone (http\://maven.springframework.org/milestone)\: Illegal character in path at index 74\: http\://maven.springframework.org/milestone/org/springframework/spring-tx/${spring.version}/spring-tx-${spring.version}.pom
+http\://download.java.net/maven/2/.error=Could not transfer artifact org.springframework\:spring-tx\:pom\:${spring.version} from/to java.net (http\://download.java.net/maven/2)\: Illegal character in path at index 64\: http\://download.java.net/maven/2/org/springframework/spring-tx/${spring.version}/spring-tx-${spring.version}.pom

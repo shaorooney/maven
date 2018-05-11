@@ -1,0 +1,16 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Dec 07 12:31:00 EST 2017
+http\://repo.gfinet.com\:8081/artifactory/libs-snapshots-local/.error=Could not transfer artifact org.springframework\:spring-messaging\:pom\:3.2.8.RELEASE from/to snapshots-local (http\://repo.gfinet.com\:8081/artifactory/libs-snapshots-local)\: Failed to transfer file\: http\://repo.gfinet.com\:8081/artifactory/libs-snapshots-local/org/springframework/spring-messaging/3.2.8.RELEASE/spring-messaging-3.2.8.RELEASE.pom. Return code is\: 409 , ReasonPhrase\:Conflict.
+http\://repo.gfinet.com\:8081/artifactory/libs-releases-local/.error=
+http\://download.java.net/maven/2/.lastUpdated=1512667856889
+http\://maven.springframework.org/release/.error=
+http\://longmoart\:8081/artifactory/libs-snapshot/.lastUpdated=1512667860670
+http\://longmoart\:8081/artifactory/libs-release/.error=
+http\://longmoart\:8081/artifactory/libs-release/.lastUpdated=1512667860492
+http\://download.java.net/maven/2/.error=
+default-http\://repo.gfinet.com\:8081/artifactory/libs-snapshots-local/.lastUpdated=1512667860717
+http\://maven.springframework.org/release/.lastUpdated=1512667856112
+http\://maven.springframework.org/milestone/.lastUpdated=1512667855971
+http\://repo.gfinet.com\:8081/artifactory/libs-releases-local/.lastUpdated=1512667860695
+http\://longmoart\:8081/artifactory/libs-snapshot/.error=
+http\://maven.springframework.org/milestone/.error=
